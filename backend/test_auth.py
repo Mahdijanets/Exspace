@@ -5,6 +5,7 @@ import tempfile
 import threading
 import time
 import unittest
+from unittest.mock import patch
 
 from backend.auth import Accounts
 from backend.server import AppServer
@@ -128,6 +129,16 @@ class AuthTests(unittest.TestCase):
         self.assertEqual(self.request("/api/auth/me")[1]["Cache-Control"], "no-store")
         self.assertEqual(self.request("/index.html")[1]["Cache-Control"], "no-cache")
         self.assertEqual(self.request("/assets/missions/apollo-lm.svg")[1]["Cache-Control"], "public, max-age=86400")
+
+    def test_render_origin_and_health(self):
+        self.assertEqual(self.request('/health')[0], 200)
+        with patch.dict('os.environ', {'PUBLIC_ORIGIN': 'https://exspace.onrender.com'}):
+            status, headers, _ = self.request('/api/auth/register',
+                {'username': 'RenderExplorer', 'password': 'space password 2026'},
+                origin='https://exspace.onrender.com')
+            self.assertEqual(status, 201)
+            self.assertIn('; Secure', headers['Set-Cookie'])
+            self.assertEqual(self.request('/api/auth/logout', {}, origin='https://evil.example')[0], 403)
 
 
 if __name__ == "__main__":
