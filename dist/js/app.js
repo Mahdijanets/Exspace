@@ -36,7 +36,12 @@ export function bindFavorites(root = document) {
 export async function initPage() {
   await Auth.init();
   const account = $("[data-account-link]");
-  if (account) account.textContent = Auth.user ? `Account: ${Auth.user.username}` : "Sign in";
+  if (account) {
+    account.innerHTML = '<svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="8" r="3.5"/><path d="M5 21v-2a7 7 0 0 1 14 0v2"/></svg>';
+    const label = Auth.user ? `Account: ${Auth.user.username}` : 'Sign in';
+    account.setAttribute('aria-label', label);
+    account.title = label;
+  }
   if (account) account.href = Auth.user ? 'account.html' : 'login.html';
   const register = $('[data-register-link]');
   if (register) register.hidden = Boolean(Auth.user);
