@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: exspace
+    runtime: python
+    plan: free
+    buildCommand: python -m compileall -q backend
+    startCommand: python -m backend.server --host 0.0.0.0
+    healthCheckPath: /health
+    envVars:
+      - key: AI_PROVIDER
+        value: gemini
+      - key: GEMINI_MODEL
+        value: gemini-3.8-flash
+      - key: GEMINI_API_KEY
+        sync: false

@@ -4,6 +4,7 @@ from http import HTTPStatus
 from http.cookies import CookieError, SimpleCookie
 from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 import json
+import os
 from pathlib import Path
 import re
 import sqlite3
@@ -79,7 +80,8 @@ class Handler(SimpleHTTPRequestHandler):
         self.send_header("Content-Length", str(len(payload)))
         if token is not None or clear:
             age = 0 if clear else SESSION_SECONDS
-            self.send_header("Set-Cookie", f'{COOKIE}={token or ""}; Path=/; Max-Age={age}; HttpOnly; SameSite=Lax')
+            secure = '; Secure' if os.environ.get('PUBLIC_ORIGIN', os.environ.get('RENDER_EXTERNAL_URL', '')).startswith('https://') else ''
+            self.send_header("Set-Cookie", f'{COOKIE}={token or ""}; Path=/; Max-Age={age}; HttpOnly; SameSite=Lax{secure}')
         if status == 429:
             self.send_header("Retry-After", "900")
         self.end_headers()
@@ -87,7 +89,12 @@ class Handler(SimpleHTTPRequestHandler):
 
     def valid_mutation(self):
         origin = urlsplit(self.headers.get("Origin", ""))
-        return origin.scheme in ("http", "https") and origin.hostname in ("localhost", "127.0.0.1") and self.headers.get("X-Acustik-Request") == "1"
+        public = os.environ.get('PUBLIC_ORIGIN', os.environ.get('RENDER_EXTERNAL_URL', '')).rstrip('/')
+        if public:
+            allowed = origin.scheme in ('http', 'https') and f'{origin.scheme}://{origin.netloc}' == public
+        else:
+            allowed = origin.scheme in ('http', 'https') and origin.hostname in ('localhost', '127.0.0.1')
+        return allowed and self.headers.get('X-Acustik-Request') == '1'
 
     def json_body(self, limit=65536):
         if self.headers.get_content_type() != "application/json":
@@ -108,6 +115,8 @@ class Handler(SimpleHTTPRequestHandler):
 
     def do_GET(self):
         path = urlsplit(self.path).path
+        if path == '/health':
+            return self.reply(200, {'ok': True})
         if path == "/api/auth/me":
             user = self.user()
             return self.reply(200 if user else 401, {"user": user})
@@ -212,12 +221,13 @@ class Handler(SimpleHTTPRequestHandler):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--port", type=int, default=5173)
+    parser.add_argument("--port", type=int, default=int(os.environ.get('PORT', '5173')))
+    parser.add_argument('--host', default='0.0.0.0' if os.environ.get('RENDER') else '127.0.0.1')
     args = parser.parse_args()
-    data = ROOT / "data"
-    data.mkdir(exist_ok=True)
-    server = AppServer(("127.0.0.1", args.port), data / "acustik.sqlite3")
-    print(f"Acustik Space: http://localhost:{server.server_port}", flush=True)
+    data = Path(os.environ.get('DATA_DIR', str(ROOT / 'data')))
+    data.mkdir(parents=True, exist_ok=True)
+    server = AppServer((args.host, args.port), data / 'acustik.sqlite3')
+    print(f'Acustik Space: http://{args.host}:{server.server_port}', flush=True)
     try:
         server.serve_forever()
     except KeyboardInterrupt:
