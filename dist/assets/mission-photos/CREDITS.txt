@@ -1,0 +1,60 @@
+Image credits: NASA (images.nasa.gov) unless noted. 1600x1200 JPG, 4:3, cropped and resized.
+
+alsep.jpg: NASA image as12-47-6918 - https://images.nasa.gov/details/as12-47-6918
+apollo-lunar-module.jpg: NASA image as09-21-3197 - https://images.nasa.gov/details/as09-21-3197
+dawn.jpg: NASA image KSC-07PD-0864 - https://images.nasa.gov/details/KSC-07PD-0864
+ingenuity.jpg: NASA image PIA24466 - https://images.nasa.gov/details/PIA24466
+kepler.jpg: NASA image PIA11824 - https://images.nasa.gov/details/PIA11824
+lunar-roving-vehicle.jpg: NASA image as15-88-11901 - https://images.nasa.gov/details/as15-88-11901
+near-shoemaker.jpg: PIA03143 (annotation arrow removed)
+phoenix-insight.jpg: NASA image PIA22227 - https://images.nasa.gov/details/PIA22227
+pioneer-10-11.jpg: NASA image ARC-1969-AC72-1353 - https://images.nasa.gov/details/ARC-1969-AC72-1353
+sojourner-pathfinder.jpg: NASA image PIA01122 - https://images.nasa.gov/details/PIA01122
+spirit-opportunity.jpg: NASA image PIA04928 - https://images.nasa.gov/details/PIA04928
+surveyor.jpg: NASA image AS12-48-7133 - https://images.nasa.gov/details/AS12-48-7133
+viking-1-2.jpg: NASA image PIA09703 - https://images.nasa.gov/details/PIA09703
+apollo-1.jpg: NASA image S66-30238 - https://images.nasa.gov/details/S66-30238
+apollo-11.jpg: NASA image as11-40-5903 - https://images.nasa.gov/details/as11-40-5903
+apollo-13.jpg: NASA image s70-35644 - https://images.nasa.gov/details/s70-35644
+apollo-8.jpg: NASA image as08-14-2383 - https://images.nasa.gov/details/as08-14-2383
+aqua.jpg: NASA image PIA18156 - https://images.nasa.gov/details/PIA18156
+artemis-i.jpg: NASA image NHQ202211160006 - https://images.nasa.gov/details/NHQ202211160006
+artemis-ii.jpg: NASA image 130A4387-1 - https://images.nasa.gov/details/130A4387-1
+cobe.jpg: NASA SVS 14715 (via Wikimedia Commons, public domain)
+cassini-huygens.jpg: NASA image PIA04603 - https://images.nasa.gov/details/PIA04603
+chandra.jpg: NASA image 9501245 - https://images.nasa.gov/details/9501245
+compton-gamma-ray-observatory.jpg: NASA image 0003356 - https://images.nasa.gov/details/0003356
+dart.jpg: NASA image KSC-20211004-PH-ANT01_0044 - https://images.nasa.gov/details/KSC-20211004-PH-ANT01_0044
+echo-1.jpg: NASA image LRC-1958-B701_P-03468 - https://images.nasa.gov/details/LRC-1958-B701_P-03468
+explorer-1.jpg: NASA image NHQ201801310003 - https://images.nasa.gov/details/NHQ201801310003
+fermi.jpg: NASA image KSC-08pd1359 - https://images.nasa.gov/details/KSC-08pd1359
+friendship-7.jpg: NASA image s62-00302 - https://images.nasa.gov/details/s62-00302
+galex.jpg: NASA image KSC-03pd1093 - https://images.nasa.gov/details/KSC-03pd1093
+grace.jpg: NASA image PIA22445 - https://images.nasa.gov/details/PIA22445
+gemini-program.jpg: NASA image s66-62920 - https://images.nasa.gov/details/s66-62920
+genesis.jpg: NASA image KSC01pd1101 - https://images.nasa.gov/details/KSC01pd1101
+hubble.jpg: NASA image s31-10-018 - https://images.nasa.gov/details/s31-10-018
+icesat-2.jpg: NASA image NHQ201809150011 - https://images.nasa.gov/details/NHQ201809150011
+james-webb.jpg: NASA image GSFC_20171208_Archive_e000355 - https://images.nasa.gov/details/GSFC_20171208_Archive_e000355
+juno.jpg: NASA image PIA13905 - https://images.nasa.gov/details/PIA13905
+landsat.jpg: NASA image GSFC_20171208_Archive_e001696 - https://images.nasa.gov/details/GSFC_20171208_Archive_e001696
+messenger.jpg: NASA image PIA18145 - https://images.nasa.gov/details/PIA18145
+magellan.jpg: NASA image s30-71-052 - https://images.nasa.gov/details/s30-71-052
+mariner-10.jpg: NASA image PIA03101 - https://images.nasa.gov/details/PIA03101
+new-horizons.jpg: NASA image PIA11709 - https://images.nasa.gov/details/PIA11709
+pioneer-venus.jpg: NASA image S91-50688 - https://images.nasa.gov/details/S91-50688
+psyche.jpg: NASA image KSC-20220503-PH-ILW01_0067 - https://images.nasa.gov/details/KSC-20220503-PH-ILW01_0067
+robonaut-2.jpg: NASA image NHQ202410240007 - https://images.nasa.gov/details/NHQ202410240007
+smap.jpg: NASA image PIA19133 - https://images.nasa.gov/details/PIA19133
+soho.jpg: NASA image PIA18170 - https://images.nasa.gov/details/PIA18170
+stereo.jpg: NASA image PIA18172 - https://images.nasa.gov/details/PIA18172
+solar-dynamics-observatory.jpg: NASA image PIA18169 - https://images.nasa.gov/details/PIA18169
+spitzer.jpg: NASA image PIA23643 - https://images.nasa.gov/details/PIA23643
+swift.jpg: NASA image KSC-04pd2111 - https://images.nasa.gov/details/KSC-04pd2111
+tess.jpg: NASA image KSC-20180213-PH-KLS01_0003 - https://images.nasa.gov/details/KSC-20180213-PH-KLS01_0003
+tiros-1.jpg: NOAA/NASA TIROS-1 satellite (via Wikimedia Commons, public domain)
+terra.jpg: NASA Terra spacecraft model (via Wikimedia Commons, public domain)
+ulysses.jpg: NASA image s90-45985 - https://images.nasa.gov/details/s90-45985
+voyager-1.jpg: NASA image PIA14111 - https://images.nasa.gov/details/PIA14111
+wise-and-neowise.jpg: NASA image PIA17254 - https://images.nasa.gov/details/PIA17254
+wmap.jpg: NASA image KSC-01pp1170 - https://images.nasa.gov/details/KSC-01pp1170

@@ -1,0 +1,1218 @@
+{
+  "alsep": {
+    "comic": [
+      "assets/readers/alsep/comic/01.jpg",
+      "assets/readers/alsep/comic/02.jpg",
+      "assets/readers/alsep/comic/03.jpg",
+      "assets/readers/alsep/comic/04.jpg",
+      "assets/readers/alsep/comic/05.jpg",
+      "assets/readers/alsep/comic/06.jpg",
+      "assets/readers/alsep/comic/07.jpg",
+      "assets/readers/alsep/comic/08.jpg",
+      "assets/readers/alsep/comic/09.jpg",
+      "assets/readers/alsep/comic/10.jpg"
+    ],
+    "text": [
+      "assets/readers/alsep/text/01.jpg",
+      "assets/readers/alsep/text/02.jpg",
+      "assets/readers/alsep/text/03.jpg",
+      "assets/readers/alsep/text/04.jpg",
+      "assets/readers/alsep/text/05.jpg",
+      "assets/readers/alsep/text/06.jpg",
+      "assets/readers/alsep/text/07.jpg",
+      "assets/readers/alsep/text/08.jpg",
+      "assets/readers/alsep/text/09.jpg",
+      "assets/readers/alsep/text/10.jpg"
+    ]
+  },
+  "apollo-lunar-module": {
+    "comic": [
+      "assets/readers/apollo-lunar-module/comic/01.jpg",
+      "assets/readers/apollo-lunar-module/comic/02.jpg",
+      "assets/readers/apollo-lunar-module/comic/03.jpg",
+      "assets/readers/apollo-lunar-module/comic/04.jpg",
+      "assets/readers/apollo-lunar-module/comic/05.jpg",
+      "assets/readers/apollo-lunar-module/comic/06.jpg",
+      "assets/readers/apollo-lunar-module/comic/07.jpg",
+      "assets/readers/apollo-lunar-module/comic/08.jpg",
+      "assets/readers/apollo-lunar-module/comic/09.jpg",
+      "assets/readers/apollo-lunar-module/comic/10.jpg"
+    ],
+    "text": [
+      "assets/readers/apollo-lunar-module/text/01.jpg",
+      "assets/readers/apollo-lunar-module/text/02.jpg",
+      "assets/readers/apollo-lunar-module/text/03.jpg",
+      "assets/readers/apollo-lunar-module/text/04.jpg",
+      "assets/readers/apollo-lunar-module/text/05.jpg",
+      "assets/readers/apollo-lunar-module/text/06.jpg",
+      "assets/readers/apollo-lunar-module/text/07.jpg",
+      "assets/readers/apollo-lunar-module/text/08.jpg",
+      "assets/readers/apollo-lunar-module/text/09.jpg"
+    ]
+  },
+  "dawn": {
+    "comic": [
+      "assets/readers/dawn/comic/01.jpg",
+      "assets/readers/dawn/comic/02.jpg",
+      "assets/readers/dawn/comic/03.jpg",
+      "assets/readers/dawn/comic/04.jpg",
+      "assets/readers/dawn/comic/05.jpg",
+      "assets/readers/dawn/comic/06.jpg",
+      "assets/readers/dawn/comic/07.jpg",
+      "assets/readers/dawn/comic/08.jpg",
+      "assets/readers/dawn/comic/09.jpg"
+    ],
+    "text": [
+      "assets/readers/dawn/text/01.jpg",
+      "assets/readers/dawn/text/02.jpg",
+      "assets/readers/dawn/text/03.jpg",
+      "assets/readers/dawn/text/04.jpg",
+      "assets/readers/dawn/text/05.jpg",
+      "assets/readers/dawn/text/06.jpg",
+      "assets/readers/dawn/text/07.jpg",
+      "assets/readers/dawn/text/08.jpg"
+    ]
+  },
+  "ingenuity": {
+    "comic": [
+      "assets/readers/ingenuity/comic/01.jpg",
+      "assets/readers/ingenuity/comic/02.jpg",
+      "assets/readers/ingenuity/comic/03.jpg",
+      "assets/readers/ingenuity/comic/04.jpg",
+      "assets/readers/ingenuity/comic/05.jpg",
+      "assets/readers/ingenuity/comic/06.jpg",
+      "assets/readers/ingenuity/comic/07.jpg",
+      "assets/readers/ingenuity/comic/08.jpg",
+      "assets/readers/ingenuity/comic/09.jpg",
+      "assets/readers/ingenuity/comic/10.jpg"
+    ],
+    "text": [
+      "assets/readers/ingenuity/text/01.jpg",
+      "assets/readers/ingenuity/text/02.jpg",
+      "assets/readers/ingenuity/text/03.jpg",
+      "assets/readers/ingenuity/text/04.jpg",
+      "assets/readers/ingenuity/text/05.jpg",
+      "assets/readers/ingenuity/text/06.jpg",
+      "assets/readers/ingenuity/text/07.jpg",
+      "assets/readers/ingenuity/text/08.jpg",
+      "assets/readers/ingenuity/text/09.jpg"
+    ]
+  },
+  "kepler": {
+    "comic": [
+      "assets/readers/kepler/comic/01.jpg",
+      "assets/readers/kepler/comic/02.jpg",
+      "assets/readers/kepler/comic/03.jpg",
+      "assets/readers/kepler/comic/04.jpg",
+      "assets/readers/kepler/comic/05.jpg",
+      "assets/readers/kepler/comic/06.jpg",
+      "assets/readers/kepler/comic/07.jpg",
+      "assets/readers/kepler/comic/08.jpg",
+      "assets/readers/kepler/comic/09.jpg",
+      "assets/readers/kepler/comic/10.jpg",
+      "assets/readers/kepler/comic/11.jpg",
+      "assets/readers/kepler/comic/12.jpg"
+    ],
+    "text": [
+      "assets/readers/kepler/text/01.jpg",
+      "assets/readers/kepler/text/02.jpg",
+      "assets/readers/kepler/text/03.jpg",
+      "assets/readers/kepler/text/04.jpg",
+      "assets/readers/kepler/text/05.jpg",
+      "assets/readers/kepler/text/06.jpg",
+      "assets/readers/kepler/text/07.jpg",
+      "assets/readers/kepler/text/08.jpg",
+      "assets/readers/kepler/text/09.jpg",
+      "assets/readers/kepler/text/10.jpg"
+    ]
+  },
+  "lunar-roving-vehicle": {
+    "comic": [
+      "assets/readers/lunar-roving-vehicle/comic/01.jpg",
+      "assets/readers/lunar-roving-vehicle/comic/02.jpg",
+      "assets/readers/lunar-roving-vehicle/comic/03.jpg",
+      "assets/readers/lunar-roving-vehicle/comic/04.jpg",
+      "assets/readers/lunar-roving-vehicle/comic/05.jpg",
+      "assets/readers/lunar-roving-vehicle/comic/06.jpg",
+      "assets/readers/lunar-roving-vehicle/comic/07.jpg",
+      "assets/readers/lunar-roving-vehicle/comic/08.jpg",
+      "assets/readers/lunar-roving-vehicle/comic/09.jpg"
+    ],
+    "text": [
+      "assets/readers/lunar-roving-vehicle/text/01.jpg",
+      "assets/readers/lunar-roving-vehicle/text/02.jpg",
+      "assets/readers/lunar-roving-vehicle/text/03.jpg",
+      "assets/readers/lunar-roving-vehicle/text/04.jpg",
+      "assets/readers/lunar-roving-vehicle/text/05.jpg",
+      "assets/readers/lunar-roving-vehicle/text/06.jpg",
+      "assets/readers/lunar-roving-vehicle/text/07.jpg",
+      "assets/readers/lunar-roving-vehicle/text/08.jpg"
+    ]
+  },
+  "near-shoemaker": {
+    "comic": [
+      "assets/readers/near-shoemaker/comic/01.jpg",
+      "assets/readers/near-shoemaker/comic/02.jpg",
+      "assets/readers/near-shoemaker/comic/03.jpg",
+      "assets/readers/near-shoemaker/comic/04.jpg",
+      "assets/readers/near-shoemaker/comic/05.jpg",
+      "assets/readers/near-shoemaker/comic/06.jpg",
+      "assets/readers/near-shoemaker/comic/07.jpg",
+      "assets/readers/near-shoemaker/comic/08.jpg",
+      "assets/readers/near-shoemaker/comic/09.jpg",
+      "assets/readers/near-shoemaker/comic/10.jpg"
+    ],
+    "text": [
+      "assets/readers/near-shoemaker/text/01.jpg",
+      "assets/readers/near-shoemaker/text/02.jpg",
+      "assets/readers/near-shoemaker/text/03.jpg",
+      "assets/readers/near-shoemaker/text/04.jpg",
+      "assets/readers/near-shoemaker/text/05.jpg",
+      "assets/readers/near-shoemaker/text/06.jpg",
+      "assets/readers/near-shoemaker/text/07.jpg",
+      "assets/readers/near-shoemaker/text/08.jpg"
+    ]
+  },
+  "phoenix-insight": {
+    "comic": [
+      "assets/readers/phoenix-insight/comic/01.jpg",
+      "assets/readers/phoenix-insight/comic/02.jpg",
+      "assets/readers/phoenix-insight/comic/03.jpg",
+      "assets/readers/phoenix-insight/comic/04.jpg",
+      "assets/readers/phoenix-insight/comic/05.jpg",
+      "assets/readers/phoenix-insight/comic/06.jpg",
+      "assets/readers/phoenix-insight/comic/07.jpg",
+      "assets/readers/phoenix-insight/comic/08.jpg",
+      "assets/readers/phoenix-insight/comic/09.jpg",
+      "assets/readers/phoenix-insight/comic/10.jpg"
+    ],
+    "text": [
+      "assets/readers/phoenix-insight/text/01.jpg",
+      "assets/readers/phoenix-insight/text/02.jpg",
+      "assets/readers/phoenix-insight/text/03.jpg",
+      "assets/readers/phoenix-insight/text/04.jpg",
+      "assets/readers/phoenix-insight/text/05.jpg",
+      "assets/readers/phoenix-insight/text/06.jpg",
+      "assets/readers/phoenix-insight/text/07.jpg",
+      "assets/readers/phoenix-insight/text/08.jpg",
+      "assets/readers/phoenix-insight/text/09.jpg"
+    ]
+  },
+  "pioneer-10-11": {
+    "comic": [
+      "assets/readers/pioneer-10-11/comic/01.jpg",
+      "assets/readers/pioneer-10-11/comic/02.jpg",
+      "assets/readers/pioneer-10-11/comic/03.jpg",
+      "assets/readers/pioneer-10-11/comic/04.jpg",
+      "assets/readers/pioneer-10-11/comic/05.jpg",
+      "assets/readers/pioneer-10-11/comic/06.jpg",
+      "assets/readers/pioneer-10-11/comic/07.jpg",
+      "assets/readers/pioneer-10-11/comic/08.jpg",
+      "assets/readers/pioneer-10-11/comic/09.jpg"
+    ],
+    "text": [
+      "assets/readers/pioneer-10-11/text/01.jpg",
+      "assets/readers/pioneer-10-11/text/02.jpg",
+      "assets/readers/pioneer-10-11/text/03.jpg",
+      "assets/readers/pioneer-10-11/text/04.jpg",
+      "assets/readers/pioneer-10-11/text/05.jpg",
+      "assets/readers/pioneer-10-11/text/06.jpg",
+      "assets/readers/pioneer-10-11/text/07.jpg",
+      "assets/readers/pioneer-10-11/text/08.jpg"
+    ]
+  },
+  "sojourner-pathfinder": {
+    "comic": [
+      "assets/readers/sojourner-pathfinder/comic/01.jpg",
+      "assets/readers/sojourner-pathfinder/comic/02.jpg",
+      "assets/readers/sojourner-pathfinder/comic/03.jpg",
+      "assets/readers/sojourner-pathfinder/comic/04.jpg",
+      "assets/readers/sojourner-pathfinder/comic/05.jpg",
+      "assets/readers/sojourner-pathfinder/comic/06.jpg",
+      "assets/readers/sojourner-pathfinder/comic/07.jpg",
+      "assets/readers/sojourner-pathfinder/comic/08.jpg",
+      "assets/readers/sojourner-pathfinder/comic/09.jpg"
+    ],
+    "text": [
+      "assets/readers/sojourner-pathfinder/text/01.jpg",
+      "assets/readers/sojourner-pathfinder/text/02.jpg",
+      "assets/readers/sojourner-pathfinder/text/03.jpg",
+      "assets/readers/sojourner-pathfinder/text/04.jpg",
+      "assets/readers/sojourner-pathfinder/text/05.jpg",
+      "assets/readers/sojourner-pathfinder/text/06.jpg",
+      "assets/readers/sojourner-pathfinder/text/07.jpg",
+      "assets/readers/sojourner-pathfinder/text/08.jpg"
+    ]
+  },
+  "spirit-opportunity": {
+    "comic": [
+      "assets/readers/spirit-opportunity/comic/01.jpg",
+      "assets/readers/spirit-opportunity/comic/02.jpg",
+      "assets/readers/spirit-opportunity/comic/03.jpg",
+      "assets/readers/spirit-opportunity/comic/04.jpg",
+      "assets/readers/spirit-opportunity/comic/05.jpg",
+      "assets/readers/spirit-opportunity/comic/06.jpg",
+      "assets/readers/spirit-opportunity/comic/07.jpg",
+      "assets/readers/spirit-opportunity/comic/08.jpg",
+      "assets/readers/spirit-opportunity/comic/09.jpg",
+      "assets/readers/spirit-opportunity/comic/10.jpg"
+    ],
+    "text": [
+      "assets/readers/spirit-opportunity/text/01.jpg",
+      "assets/readers/spirit-opportunity/text/02.jpg",
+      "assets/readers/spirit-opportunity/text/03.jpg",
+      "assets/readers/spirit-opportunity/text/04.jpg",
+      "assets/readers/spirit-opportunity/text/05.jpg",
+      "assets/readers/spirit-opportunity/text/06.jpg",
+      "assets/readers/spirit-opportunity/text/07.jpg",
+      "assets/readers/spirit-opportunity/text/08.jpg",
+      "assets/readers/spirit-opportunity/text/09.jpg"
+    ]
+  },
+  "surveyor": {
+    "comic": [
+      "assets/readers/surveyor/comic/01.jpg",
+      "assets/readers/surveyor/comic/02.jpg",
+      "assets/readers/surveyor/comic/03.jpg",
+      "assets/readers/surveyor/comic/04.jpg",
+      "assets/readers/surveyor/comic/05.jpg",
+      "assets/readers/surveyor/comic/06.jpg",
+      "assets/readers/surveyor/comic/07.jpg",
+      "assets/readers/surveyor/comic/08.jpg",
+      "assets/readers/surveyor/comic/09.jpg"
+    ],
+    "text": [
+      "assets/readers/surveyor/text/01.jpg",
+      "assets/readers/surveyor/text/02.jpg",
+      "assets/readers/surveyor/text/03.jpg",
+      "assets/readers/surveyor/text/04.jpg",
+      "assets/readers/surveyor/text/05.jpg",
+      "assets/readers/surveyor/text/06.jpg",
+      "assets/readers/surveyor/text/07.jpg",
+      "assets/readers/surveyor/text/08.jpg",
+      "assets/readers/surveyor/text/09.jpg",
+      "assets/readers/surveyor/text/10.jpg"
+    ]
+  },
+  "viking-1-2": {
+    "comic": [
+      "assets/readers/viking-1-2/comic/01.jpg",
+      "assets/readers/viking-1-2/comic/02.jpg",
+      "assets/readers/viking-1-2/comic/03.jpg",
+      "assets/readers/viking-1-2/comic/04.jpg",
+      "assets/readers/viking-1-2/comic/05.jpg",
+      "assets/readers/viking-1-2/comic/06.jpg",
+      "assets/readers/viking-1-2/comic/07.jpg",
+      "assets/readers/viking-1-2/comic/08.jpg",
+      "assets/readers/viking-1-2/comic/09.jpg"
+    ],
+    "text": [
+      "assets/readers/viking-1-2/text/01.jpg",
+      "assets/readers/viking-1-2/text/02.jpg",
+      "assets/readers/viking-1-2/text/03.jpg",
+      "assets/readers/viking-1-2/text/04.jpg",
+      "assets/readers/viking-1-2/text/05.jpg",
+      "assets/readers/viking-1-2/text/06.jpg",
+      "assets/readers/viking-1-2/text/07.jpg",
+      "assets/readers/viking-1-2/text/08.jpg"
+    ]
+  },
+  "apollo-1": {
+    "comic": [
+      "assets/readers/apollo-1/comic/01.jpg",
+      "assets/readers/apollo-1/comic/02.jpg",
+      "assets/readers/apollo-1/comic/03.jpg",
+      "assets/readers/apollo-1/comic/04.jpg",
+      "assets/readers/apollo-1/comic/05.jpg",
+      "assets/readers/apollo-1/comic/06.jpg"
+    ],
+    "text": [
+      "assets/readers/apollo-1/text/01.jpg",
+      "assets/readers/apollo-1/text/02.jpg",
+      "assets/readers/apollo-1/text/03.jpg",
+      "assets/readers/apollo-1/text/04.jpg",
+      "assets/readers/apollo-1/text/05.jpg",
+      "assets/readers/apollo-1/text/06.jpg",
+      "assets/readers/apollo-1/text/07.jpg"
+    ]
+  },
+  "apollo-11": {
+    "comic": [
+      "assets/readers/apollo-11/comic/01.jpg",
+      "assets/readers/apollo-11/comic/02.jpg",
+      "assets/readers/apollo-11/comic/03.jpg",
+      "assets/readers/apollo-11/comic/04.jpg",
+      "assets/readers/apollo-11/comic/05.jpg",
+      "assets/readers/apollo-11/comic/06.jpg",
+      "assets/readers/apollo-11/comic/07.jpg",
+      "assets/readers/apollo-11/comic/08.jpg"
+    ],
+    "text": [
+      "assets/readers/apollo-11/text/01.jpg",
+      "assets/readers/apollo-11/text/02.jpg",
+      "assets/readers/apollo-11/text/03.jpg",
+      "assets/readers/apollo-11/text/04.jpg",
+      "assets/readers/apollo-11/text/05.jpg",
+      "assets/readers/apollo-11/text/06.jpg",
+      "assets/readers/apollo-11/text/07.jpg"
+    ]
+  },
+  "apollo-13": {
+    "comic": [
+      "assets/readers/apollo-13/comic/01.jpg",
+      "assets/readers/apollo-13/comic/02.jpg",
+      "assets/readers/apollo-13/comic/03.jpg",
+      "assets/readers/apollo-13/comic/04.jpg",
+      "assets/readers/apollo-13/comic/05.jpg",
+      "assets/readers/apollo-13/comic/06.jpg"
+    ],
+    "text": [
+      "assets/readers/apollo-13/text/01.jpg",
+      "assets/readers/apollo-13/text/02.jpg",
+      "assets/readers/apollo-13/text/03.jpg",
+      "assets/readers/apollo-13/text/04.jpg",
+      "assets/readers/apollo-13/text/05.jpg",
+      "assets/readers/apollo-13/text/06.jpg",
+      "assets/readers/apollo-13/text/07.jpg"
+    ]
+  },
+  "apollo-8": {
+    "comic": [
+      "assets/readers/apollo-8/comic/01.jpg",
+      "assets/readers/apollo-8/comic/02.jpg",
+      "assets/readers/apollo-8/comic/03.jpg",
+      "assets/readers/apollo-8/comic/04.jpg",
+      "assets/readers/apollo-8/comic/05.jpg",
+      "assets/readers/apollo-8/comic/06.jpg",
+      "assets/readers/apollo-8/comic/07.jpg"
+    ],
+    "text": [
+      "assets/readers/apollo-8/text/01.jpg",
+      "assets/readers/apollo-8/text/02.jpg",
+      "assets/readers/apollo-8/text/03.jpg",
+      "assets/readers/apollo-8/text/04.jpg",
+      "assets/readers/apollo-8/text/05.jpg",
+      "assets/readers/apollo-8/text/06.jpg",
+      "assets/readers/apollo-8/text/07.jpg",
+      "assets/readers/apollo-8/text/08.jpg"
+    ]
+  },
+  "aqua": {
+    "comic": [
+      "assets/readers/aqua/comic/01.jpg",
+      "assets/readers/aqua/comic/02.jpg",
+      "assets/readers/aqua/comic/03.jpg",
+      "assets/readers/aqua/comic/04.jpg",
+      "assets/readers/aqua/comic/05.jpg",
+      "assets/readers/aqua/comic/06.jpg"
+    ],
+    "text": [
+      "assets/readers/aqua/text/01.jpg",
+      "assets/readers/aqua/text/02.jpg",
+      "assets/readers/aqua/text/03.jpg",
+      "assets/readers/aqua/text/04.jpg",
+      "assets/readers/aqua/text/05.jpg",
+      "assets/readers/aqua/text/06.jpg",
+      "assets/readers/aqua/text/07.jpg"
+    ]
+  },
+  "artemis-i": {
+    "comic": [
+      "assets/readers/artemis-i/comic/01.jpg",
+      "assets/readers/artemis-i/comic/02.jpg",
+      "assets/readers/artemis-i/comic/03.jpg",
+      "assets/readers/artemis-i/comic/04.jpg",
+      "assets/readers/artemis-i/comic/05.jpg",
+      "assets/readers/artemis-i/comic/06.jpg"
+    ],
+    "text": [
+      "assets/readers/artemis-i/text/01.jpg",
+      "assets/readers/artemis-i/text/02.jpg",
+      "assets/readers/artemis-i/text/03.jpg",
+      "assets/readers/artemis-i/text/04.jpg",
+      "assets/readers/artemis-i/text/05.jpg",
+      "assets/readers/artemis-i/text/06.jpg",
+      "assets/readers/artemis-i/text/07.jpg",
+      "assets/readers/artemis-i/text/08.jpg"
+    ]
+  },
+  "artemis-ii": {
+    "comic": [
+      "assets/readers/artemis-ii/comic/01.jpg",
+      "assets/readers/artemis-ii/comic/02.jpg",
+      "assets/readers/artemis-ii/comic/03.jpg",
+      "assets/readers/artemis-ii/comic/04.jpg",
+      "assets/readers/artemis-ii/comic/05.jpg",
+      "assets/readers/artemis-ii/comic/06.jpg",
+      "assets/readers/artemis-ii/comic/07.jpg"
+    ],
+    "text": [
+      "assets/readers/artemis-ii/text/01.jpg",
+      "assets/readers/artemis-ii/text/02.jpg",
+      "assets/readers/artemis-ii/text/03.jpg",
+      "assets/readers/artemis-ii/text/04.jpg",
+      "assets/readers/artemis-ii/text/05.jpg",
+      "assets/readers/artemis-ii/text/06.jpg"
+    ]
+  },
+  "cobe": {
+    "comic": [
+      "assets/readers/cobe/comic/01.jpg",
+      "assets/readers/cobe/comic/02.jpg",
+      "assets/readers/cobe/comic/03.jpg",
+      "assets/readers/cobe/comic/04.jpg",
+      "assets/readers/cobe/comic/05.jpg",
+      "assets/readers/cobe/comic/06.jpg",
+      "assets/readers/cobe/comic/07.jpg"
+    ],
+    "text": [
+      "assets/readers/cobe/text/01.jpg",
+      "assets/readers/cobe/text/02.jpg",
+      "assets/readers/cobe/text/03.jpg",
+      "assets/readers/cobe/text/04.jpg",
+      "assets/readers/cobe/text/05.jpg",
+      "assets/readers/cobe/text/06.jpg"
+    ]
+  },
+  "cassini-huygens": {
+    "comic": [
+      "assets/readers/cassini-huygens/comic/01.jpg",
+      "assets/readers/cassini-huygens/comic/02.jpg",
+      "assets/readers/cassini-huygens/comic/03.jpg",
+      "assets/readers/cassini-huygens/comic/04.jpg",
+      "assets/readers/cassini-huygens/comic/05.jpg",
+      "assets/readers/cassini-huygens/comic/06.jpg",
+      "assets/readers/cassini-huygens/comic/07.jpg"
+    ],
+    "text": [
+      "assets/readers/cassini-huygens/text/01.jpg",
+      "assets/readers/cassini-huygens/text/02.jpg",
+      "assets/readers/cassini-huygens/text/03.jpg",
+      "assets/readers/cassini-huygens/text/04.jpg",
+      "assets/readers/cassini-huygens/text/05.jpg",
+      "assets/readers/cassini-huygens/text/06.jpg",
+      "assets/readers/cassini-huygens/text/07.jpg",
+      "assets/readers/cassini-huygens/text/08.jpg"
+    ]
+  },
+  "chandra": {
+    "comic": [
+      "assets/readers/chandra/comic/01.jpg",
+      "assets/readers/chandra/comic/02.jpg",
+      "assets/readers/chandra/comic/03.jpg",
+      "assets/readers/chandra/comic/04.jpg",
+      "assets/readers/chandra/comic/05.jpg",
+      "assets/readers/chandra/comic/06.jpg"
+    ],
+    "text": [
+      "assets/readers/chandra/text/01.jpg",
+      "assets/readers/chandra/text/02.jpg",
+      "assets/readers/chandra/text/03.jpg",
+      "assets/readers/chandra/text/04.jpg",
+      "assets/readers/chandra/text/05.jpg",
+      "assets/readers/chandra/text/06.jpg",
+      "assets/readers/chandra/text/07.jpg",
+      "assets/readers/chandra/text/08.jpg"
+    ]
+  },
+  "compton-gamma-ray-observatory": {
+    "comic": [
+      "assets/readers/compton-gamma-ray-observatory/comic/01.jpg",
+      "assets/readers/compton-gamma-ray-observatory/comic/02.jpg",
+      "assets/readers/compton-gamma-ray-observatory/comic/03.jpg",
+      "assets/readers/compton-gamma-ray-observatory/comic/04.jpg",
+      "assets/readers/compton-gamma-ray-observatory/comic/05.jpg",
+      "assets/readers/compton-gamma-ray-observatory/comic/06.jpg",
+      "assets/readers/compton-gamma-ray-observatory/comic/07.jpg",
+      "assets/readers/compton-gamma-ray-observatory/comic/08.jpg"
+    ],
+    "text": [
+      "assets/readers/compton-gamma-ray-observatory/text/01.jpg",
+      "assets/readers/compton-gamma-ray-observatory/text/02.jpg",
+      "assets/readers/compton-gamma-ray-observatory/text/03.jpg",
+      "assets/readers/compton-gamma-ray-observatory/text/04.jpg",
+      "assets/readers/compton-gamma-ray-observatory/text/05.jpg",
+      "assets/readers/compton-gamma-ray-observatory/text/06.jpg",
+      "assets/readers/compton-gamma-ray-observatory/text/07.jpg"
+    ]
+  },
+  "dart": {
+    "comic": [
+      "assets/readers/dart/comic/01.jpg",
+      "assets/readers/dart/comic/02.jpg",
+      "assets/readers/dart/comic/03.jpg",
+      "assets/readers/dart/comic/04.jpg",
+      "assets/readers/dart/comic/05.jpg",
+      "assets/readers/dart/comic/06.jpg",
+      "assets/readers/dart/comic/07.jpg"
+    ],
+    "text": [
+      "assets/readers/dart/text/01.jpg",
+      "assets/readers/dart/text/02.jpg",
+      "assets/readers/dart/text/03.jpg",
+      "assets/readers/dart/text/04.jpg",
+      "assets/readers/dart/text/05.jpg",
+      "assets/readers/dart/text/06.jpg"
+    ]
+  },
+  "echo-1": {
+    "comic": [
+      "assets/readers/echo-1/comic/01.jpg",
+      "assets/readers/echo-1/comic/02.jpg",
+      "assets/readers/echo-1/comic/03.jpg",
+      "assets/readers/echo-1/comic/04.jpg",
+      "assets/readers/echo-1/comic/05.jpg",
+      "assets/readers/echo-1/comic/06.jpg",
+      "assets/readers/echo-1/comic/07.jpg"
+    ],
+    "text": [
+      "assets/readers/echo-1/text/01.jpg",
+      "assets/readers/echo-1/text/02.jpg",
+      "assets/readers/echo-1/text/03.jpg",
+      "assets/readers/echo-1/text/04.jpg",
+      "assets/readers/echo-1/text/05.jpg",
+      "assets/readers/echo-1/text/06.jpg"
+    ]
+  },
+  "explorer-1": {
+    "comic": [
+      "assets/readers/explorer-1/comic/01.jpg",
+      "assets/readers/explorer-1/comic/02.jpg",
+      "assets/readers/explorer-1/comic/03.jpg",
+      "assets/readers/explorer-1/comic/04.jpg",
+      "assets/readers/explorer-1/comic/05.jpg",
+      "assets/readers/explorer-1/comic/06.jpg",
+      "assets/readers/explorer-1/comic/07.jpg",
+      "assets/readers/explorer-1/comic/08.jpg"
+    ],
+    "text": [
+      "assets/readers/explorer-1/text/01.jpg",
+      "assets/readers/explorer-1/text/02.jpg",
+      "assets/readers/explorer-1/text/03.jpg",
+      "assets/readers/explorer-1/text/04.jpg",
+      "assets/readers/explorer-1/text/05.jpg",
+      "assets/readers/explorer-1/text/06.jpg",
+      "assets/readers/explorer-1/text/07.jpg"
+    ]
+  },
+  "fermi": {
+    "comic": [
+      "assets/readers/fermi/comic/01.jpg",
+      "assets/readers/fermi/comic/02.jpg",
+      "assets/readers/fermi/comic/03.jpg",
+      "assets/readers/fermi/comic/04.jpg",
+      "assets/readers/fermi/comic/05.jpg",
+      "assets/readers/fermi/comic/06.jpg",
+      "assets/readers/fermi/comic/07.jpg",
+      "assets/readers/fermi/comic/08.jpg"
+    ],
+    "text": [
+      "assets/readers/fermi/text/01.jpg",
+      "assets/readers/fermi/text/02.jpg",
+      "assets/readers/fermi/text/03.jpg",
+      "assets/readers/fermi/text/04.jpg",
+      "assets/readers/fermi/text/05.jpg",
+      "assets/readers/fermi/text/06.jpg"
+    ]
+  },
+  "friendship-7": {
+    "comic": [
+      "assets/readers/friendship-7/comic/01.jpg",
+      "assets/readers/friendship-7/comic/02.jpg",
+      "assets/readers/friendship-7/comic/03.jpg",
+      "assets/readers/friendship-7/comic/04.jpg",
+      "assets/readers/friendship-7/comic/05.jpg",
+      "assets/readers/friendship-7/comic/06.jpg",
+      "assets/readers/friendship-7/comic/07.jpg"
+    ],
+    "text": [
+      "assets/readers/friendship-7/text/01.jpg",
+      "assets/readers/friendship-7/text/02.jpg",
+      "assets/readers/friendship-7/text/03.jpg",
+      "assets/readers/friendship-7/text/04.jpg",
+      "assets/readers/friendship-7/text/05.jpg",
+      "assets/readers/friendship-7/text/06.jpg",
+      "assets/readers/friendship-7/text/07.jpg",
+      "assets/readers/friendship-7/text/08.jpg"
+    ]
+  },
+  "galex": {
+    "comic": [
+      "assets/readers/galex/comic/01.jpg",
+      "assets/readers/galex/comic/02.jpg",
+      "assets/readers/galex/comic/03.jpg",
+      "assets/readers/galex/comic/04.jpg",
+      "assets/readers/galex/comic/05.jpg",
+      "assets/readers/galex/comic/06.jpg",
+      "assets/readers/galex/comic/07.jpg"
+    ],
+    "text": [
+      "assets/readers/galex/text/01.jpg",
+      "assets/readers/galex/text/02.jpg",
+      "assets/readers/galex/text/03.jpg",
+      "assets/readers/galex/text/04.jpg",
+      "assets/readers/galex/text/05.jpg",
+      "assets/readers/galex/text/06.jpg",
+      "assets/readers/galex/text/07.jpg"
+    ]
+  },
+  "grace": {
+    "comic": [
+      "assets/readers/grace/comic/01.jpg",
+      "assets/readers/grace/comic/02.jpg",
+      "assets/readers/grace/comic/03.jpg",
+      "assets/readers/grace/comic/04.jpg",
+      "assets/readers/grace/comic/05.jpg",
+      "assets/readers/grace/comic/06.jpg",
+      "assets/readers/grace/comic/07.jpg"
+    ],
+    "text": [
+      "assets/readers/grace/text/01.jpg",
+      "assets/readers/grace/text/02.jpg",
+      "assets/readers/grace/text/03.jpg",
+      "assets/readers/grace/text/04.jpg",
+      "assets/readers/grace/text/05.jpg",
+      "assets/readers/grace/text/06.jpg"
+    ]
+  },
+  "gemini-program": {
+    "comic": [
+      "assets/readers/gemini-program/comic/01.jpg",
+      "assets/readers/gemini-program/comic/02.jpg",
+      "assets/readers/gemini-program/comic/03.jpg",
+      "assets/readers/gemini-program/comic/04.jpg",
+      "assets/readers/gemini-program/comic/05.jpg",
+      "assets/readers/gemini-program/comic/06.jpg",
+      "assets/readers/gemini-program/comic/07.jpg",
+      "assets/readers/gemini-program/comic/08.jpg"
+    ],
+    "text": [
+      "assets/readers/gemini-program/text/01.jpg",
+      "assets/readers/gemini-program/text/02.jpg",
+      "assets/readers/gemini-program/text/03.jpg",
+      "assets/readers/gemini-program/text/04.jpg",
+      "assets/readers/gemini-program/text/05.jpg",
+      "assets/readers/gemini-program/text/06.jpg"
+    ]
+  },
+  "genesis": {
+    "comic": [
+      "assets/readers/genesis/comic/01.jpg",
+      "assets/readers/genesis/comic/02.jpg",
+      "assets/readers/genesis/comic/03.jpg",
+      "assets/readers/genesis/comic/04.jpg",
+      "assets/readers/genesis/comic/05.jpg",
+      "assets/readers/genesis/comic/06.jpg",
+      "assets/readers/genesis/comic/07.jpg"
+    ],
+    "text": [
+      "assets/readers/genesis/text/01.jpg",
+      "assets/readers/genesis/text/02.jpg",
+      "assets/readers/genesis/text/03.jpg",
+      "assets/readers/genesis/text/04.jpg",
+      "assets/readers/genesis/text/05.jpg",
+      "assets/readers/genesis/text/06.jpg"
+    ]
+  },
+  "hubble": {
+    "comic": [
+      "assets/readers/hubble/comic/01.jpg",
+      "assets/readers/hubble/comic/02.jpg",
+      "assets/readers/hubble/comic/03.jpg",
+      "assets/readers/hubble/comic/04.jpg",
+      "assets/readers/hubble/comic/05.jpg",
+      "assets/readers/hubble/comic/06.jpg",
+      "assets/readers/hubble/comic/07.jpg",
+      "assets/readers/hubble/comic/08.jpg"
+    ],
+    "text": [
+      "assets/readers/hubble/text/01.jpg",
+      "assets/readers/hubble/text/02.jpg",
+      "assets/readers/hubble/text/03.jpg",
+      "assets/readers/hubble/text/04.jpg",
+      "assets/readers/hubble/text/05.jpg",
+      "assets/readers/hubble/text/06.jpg",
+      "assets/readers/hubble/text/07.jpg",
+      "assets/readers/hubble/text/08.jpg"
+    ]
+  },
+  "icesat-2": {
+    "comic": [
+      "assets/readers/icesat-2/comic/01.jpg",
+      "assets/readers/icesat-2/comic/02.jpg",
+      "assets/readers/icesat-2/comic/03.jpg",
+      "assets/readers/icesat-2/comic/04.jpg",
+      "assets/readers/icesat-2/comic/05.jpg",
+      "assets/readers/icesat-2/comic/06.jpg",
+      "assets/readers/icesat-2/comic/07.jpg",
+      "assets/readers/icesat-2/comic/08.jpg"
+    ],
+    "text": [
+      "assets/readers/icesat-2/text/01.jpg",
+      "assets/readers/icesat-2/text/02.jpg",
+      "assets/readers/icesat-2/text/03.jpg",
+      "assets/readers/icesat-2/text/04.jpg",
+      "assets/readers/icesat-2/text/05.jpg",
+      "assets/readers/icesat-2/text/06.jpg",
+      "assets/readers/icesat-2/text/07.jpg"
+    ]
+  },
+  "james-webb": {
+    "comic": [
+      "assets/readers/james-webb/comic/01.jpg",
+      "assets/readers/james-webb/comic/02.jpg",
+      "assets/readers/james-webb/comic/03.jpg",
+      "assets/readers/james-webb/comic/04.jpg",
+      "assets/readers/james-webb/comic/05.jpg",
+      "assets/readers/james-webb/comic/06.jpg",
+      "assets/readers/james-webb/comic/07.jpg",
+      "assets/readers/james-webb/comic/08.jpg"
+    ],
+    "text": [
+      "assets/readers/james-webb/text/01.jpg",
+      "assets/readers/james-webb/text/02.jpg",
+      "assets/readers/james-webb/text/03.jpg",
+      "assets/readers/james-webb/text/04.jpg",
+      "assets/readers/james-webb/text/05.jpg",
+      "assets/readers/james-webb/text/06.jpg",
+      "assets/readers/james-webb/text/07.jpg"
+    ]
+  },
+  "juno": {
+    "comic": [
+      "assets/readers/juno/comic/01.jpg",
+      "assets/readers/juno/comic/02.jpg",
+      "assets/readers/juno/comic/03.jpg",
+      "assets/readers/juno/comic/04.jpg",
+      "assets/readers/juno/comic/05.jpg",
+      "assets/readers/juno/comic/06.jpg"
+    ],
+    "text": [
+      "assets/readers/juno/text/01.jpg",
+      "assets/readers/juno/text/02.jpg",
+      "assets/readers/juno/text/03.jpg",
+      "assets/readers/juno/text/04.jpg",
+      "assets/readers/juno/text/05.jpg",
+      "assets/readers/juno/text/06.jpg",
+      "assets/readers/juno/text/07.jpg"
+    ]
+  },
+  "landsat": {
+    "comic": [
+      "assets/readers/landsat/comic/01.jpg",
+      "assets/readers/landsat/comic/02.jpg",
+      "assets/readers/landsat/comic/03.jpg",
+      "assets/readers/landsat/comic/04.jpg",
+      "assets/readers/landsat/comic/05.jpg",
+      "assets/readers/landsat/comic/06.jpg",
+      "assets/readers/landsat/comic/07.jpg",
+      "assets/readers/landsat/comic/08.jpg"
+    ],
+    "text": [
+      "assets/readers/landsat/text/01.jpg",
+      "assets/readers/landsat/text/02.jpg",
+      "assets/readers/landsat/text/03.jpg",
+      "assets/readers/landsat/text/04.jpg",
+      "assets/readers/landsat/text/05.jpg",
+      "assets/readers/landsat/text/06.jpg"
+    ]
+  },
+  "messenger": {
+    "comic": [
+      "assets/readers/messenger/comic/01.jpg",
+      "assets/readers/messenger/comic/02.jpg",
+      "assets/readers/messenger/comic/03.jpg",
+      "assets/readers/messenger/comic/04.jpg",
+      "assets/readers/messenger/comic/05.jpg",
+      "assets/readers/messenger/comic/06.jpg",
+      "assets/readers/messenger/comic/07.jpg"
+    ],
+    "text": [
+      "assets/readers/messenger/text/01.jpg",
+      "assets/readers/messenger/text/02.jpg",
+      "assets/readers/messenger/text/03.jpg",
+      "assets/readers/messenger/text/04.jpg",
+      "assets/readers/messenger/text/05.jpg",
+      "assets/readers/messenger/text/06.jpg"
+    ]
+  },
+  "magellan": {
+    "comic": [
+      "assets/readers/magellan/comic/01.jpg",
+      "assets/readers/magellan/comic/02.jpg",
+      "assets/readers/magellan/comic/03.jpg",
+      "assets/readers/magellan/comic/04.jpg",
+      "assets/readers/magellan/comic/05.jpg",
+      "assets/readers/magellan/comic/06.jpg",
+      "assets/readers/magellan/comic/07.jpg",
+      "assets/readers/magellan/comic/08.jpg"
+    ],
+    "text": [
+      "assets/readers/magellan/text/01.jpg",
+      "assets/readers/magellan/text/02.jpg",
+      "assets/readers/magellan/text/03.jpg",
+      "assets/readers/magellan/text/04.jpg",
+      "assets/readers/magellan/text/05.jpg",
+      "assets/readers/magellan/text/06.jpg",
+      "assets/readers/magellan/text/07.jpg",
+      "assets/readers/magellan/text/08.jpg"
+    ]
+  },
+  "mariner-10": {
+    "comic": [
+      "assets/readers/mariner-10/comic/01.jpg",
+      "assets/readers/mariner-10/comic/02.jpg",
+      "assets/readers/mariner-10/comic/03.jpg",
+      "assets/readers/mariner-10/comic/04.jpg",
+      "assets/readers/mariner-10/comic/05.jpg",
+      "assets/readers/mariner-10/comic/06.jpg",
+      "assets/readers/mariner-10/comic/07.jpg"
+    ],
+    "text": [
+      "assets/readers/mariner-10/text/01.jpg",
+      "assets/readers/mariner-10/text/02.jpg",
+      "assets/readers/mariner-10/text/03.jpg",
+      "assets/readers/mariner-10/text/04.jpg",
+      "assets/readers/mariner-10/text/05.jpg",
+      "assets/readers/mariner-10/text/06.jpg"
+    ]
+  },
+  "new-horizons": {
+    "comic": [
+      "assets/readers/new-horizons/comic/01.jpg",
+      "assets/readers/new-horizons/comic/02.jpg",
+      "assets/readers/new-horizons/comic/03.jpg",
+      "assets/readers/new-horizons/comic/04.jpg",
+      "assets/readers/new-horizons/comic/05.jpg",
+      "assets/readers/new-horizons/comic/06.jpg",
+      "assets/readers/new-horizons/comic/07.jpg",
+      "assets/readers/new-horizons/comic/08.jpg"
+    ],
+    "text": [
+      "assets/readers/new-horizons/text/01.jpg",
+      "assets/readers/new-horizons/text/02.jpg",
+      "assets/readers/new-horizons/text/03.jpg",
+      "assets/readers/new-horizons/text/04.jpg",
+      "assets/readers/new-horizons/text/05.jpg",
+      "assets/readers/new-horizons/text/06.jpg"
+    ]
+  },
+  "pioneer-venus": {
+    "comic": [
+      "assets/readers/pioneer-venus/comic/01.jpg",
+      "assets/readers/pioneer-venus/comic/02.jpg",
+      "assets/readers/pioneer-venus/comic/03.jpg",
+      "assets/readers/pioneer-venus/comic/04.jpg",
+      "assets/readers/pioneer-venus/comic/05.jpg",
+      "assets/readers/pioneer-venus/comic/06.jpg"
+    ],
+    "text": [
+      "assets/readers/pioneer-venus/text/01.jpg",
+      "assets/readers/pioneer-venus/text/02.jpg",
+      "assets/readers/pioneer-venus/text/03.jpg",
+      "assets/readers/pioneer-venus/text/04.jpg",
+      "assets/readers/pioneer-venus/text/05.jpg",
+      "assets/readers/pioneer-venus/text/06.jpg",
+      "assets/readers/pioneer-venus/text/07.jpg"
+    ]
+  },
+  "psyche": {
+    "comic": [
+      "assets/readers/psyche/comic/01.jpg",
+      "assets/readers/psyche/comic/02.jpg",
+      "assets/readers/psyche/comic/03.jpg",
+      "assets/readers/psyche/comic/04.jpg",
+      "assets/readers/psyche/comic/05.jpg",
+      "assets/readers/psyche/comic/06.jpg"
+    ],
+    "text": [
+      "assets/readers/psyche/text/01.jpg",
+      "assets/readers/psyche/text/02.jpg",
+      "assets/readers/psyche/text/03.jpg",
+      "assets/readers/psyche/text/04.jpg",
+      "assets/readers/psyche/text/05.jpg",
+      "assets/readers/psyche/text/06.jpg",
+      "assets/readers/psyche/text/07.jpg"
+    ]
+  },
+  "robonaut-2": {
+    "comic": [
+      "assets/readers/robonaut-2/comic/01.jpg",
+      "assets/readers/robonaut-2/comic/02.jpg",
+      "assets/readers/robonaut-2/comic/03.jpg",
+      "assets/readers/robonaut-2/comic/04.jpg",
+      "assets/readers/robonaut-2/comic/05.jpg",
+      "assets/readers/robonaut-2/comic/06.jpg"
+    ],
+    "text": [
+      "assets/readers/robonaut-2/text/01.jpg",
+      "assets/readers/robonaut-2/text/02.jpg",
+      "assets/readers/robonaut-2/text/03.jpg",
+      "assets/readers/robonaut-2/text/04.jpg",
+      "assets/readers/robonaut-2/text/05.jpg",
+      "assets/readers/robonaut-2/text/06.jpg",
+      "assets/readers/robonaut-2/text/07.jpg",
+      "assets/readers/robonaut-2/text/08.jpg"
+    ]
+  },
+  "smap": {
+    "comic": [
+      "assets/readers/smap/comic/01.jpg",
+      "assets/readers/smap/comic/02.jpg",
+      "assets/readers/smap/comic/03.jpg",
+      "assets/readers/smap/comic/04.jpg",
+      "assets/readers/smap/comic/05.jpg",
+      "assets/readers/smap/comic/06.jpg",
+      "assets/readers/smap/comic/07.jpg"
+    ],
+    "text": [
+      "assets/readers/smap/text/01.jpg",
+      "assets/readers/smap/text/02.jpg",
+      "assets/readers/smap/text/03.jpg",
+      "assets/readers/smap/text/04.jpg",
+      "assets/readers/smap/text/05.jpg",
+      "assets/readers/smap/text/06.jpg"
+    ]
+  },
+  "soho": {
+    "comic": [
+      "assets/readers/soho/comic/01.jpg",
+      "assets/readers/soho/comic/02.jpg",
+      "assets/readers/soho/comic/03.jpg",
+      "assets/readers/soho/comic/04.jpg",
+      "assets/readers/soho/comic/05.jpg",
+      "assets/readers/soho/comic/06.jpg",
+      "assets/readers/soho/comic/07.jpg",
+      "assets/readers/soho/comic/08.jpg"
+    ],
+    "text": [
+      "assets/readers/soho/text/01.jpg",
+      "assets/readers/soho/text/02.jpg",
+      "assets/readers/soho/text/03.jpg",
+      "assets/readers/soho/text/04.jpg",
+      "assets/readers/soho/text/05.jpg",
+      "assets/readers/soho/text/06.jpg",
+      "assets/readers/soho/text/07.jpg",
+      "assets/readers/soho/text/08.jpg"
+    ]
+  },
+  "stereo": {
+    "comic": [
+      "assets/readers/stereo/comic/01.jpg",
+      "assets/readers/stereo/comic/02.jpg",
+      "assets/readers/stereo/comic/03.jpg",
+      "assets/readers/stereo/comic/04.jpg",
+      "assets/readers/stereo/comic/05.jpg",
+      "assets/readers/stereo/comic/06.jpg"
+    ],
+    "text": [
+      "assets/readers/stereo/text/01.jpg",
+      "assets/readers/stereo/text/02.jpg",
+      "assets/readers/stereo/text/03.jpg",
+      "assets/readers/stereo/text/04.jpg",
+      "assets/readers/stereo/text/05.jpg",
+      "assets/readers/stereo/text/06.jpg",
+      "assets/readers/stereo/text/07.jpg"
+    ]
+  },
+  "solar-dynamics-observatory": {
+    "comic": [
+      "assets/readers/solar-dynamics-observatory/comic/01.jpg",
+      "assets/readers/solar-dynamics-observatory/comic/02.jpg",
+      "assets/readers/solar-dynamics-observatory/comic/03.jpg",
+      "assets/readers/solar-dynamics-observatory/comic/04.jpg",
+      "assets/readers/solar-dynamics-observatory/comic/05.jpg",
+      "assets/readers/solar-dynamics-observatory/comic/06.jpg",
+      "assets/readers/solar-dynamics-observatory/comic/07.jpg",
+      "assets/readers/solar-dynamics-observatory/comic/08.jpg"
+    ],
+    "text": [
+      "assets/readers/solar-dynamics-observatory/text/01.jpg",
+      "assets/readers/solar-dynamics-observatory/text/02.jpg",
+      "assets/readers/solar-dynamics-observatory/text/03.jpg",
+      "assets/readers/solar-dynamics-observatory/text/04.jpg",
+      "assets/readers/solar-dynamics-observatory/text/05.jpg",
+      "assets/readers/solar-dynamics-observatory/text/06.jpg",
+      "assets/readers/solar-dynamics-observatory/text/07.jpg",
+      "assets/readers/solar-dynamics-observatory/text/08.jpg"
+    ]
+  },
+  "spitzer": {
+    "comic": [
+      "assets/readers/spitzer/comic/01.jpg",
+      "assets/readers/spitzer/comic/02.jpg",
+      "assets/readers/spitzer/comic/03.jpg",
+      "assets/readers/spitzer/comic/04.jpg",
+      "assets/readers/spitzer/comic/05.jpg",
+      "assets/readers/spitzer/comic/06.jpg",
+      "assets/readers/spitzer/comic/07.jpg"
+    ],
+    "text": [
+      "assets/readers/spitzer/text/01.jpg",
+      "assets/readers/spitzer/text/02.jpg",
+      "assets/readers/spitzer/text/03.jpg",
+      "assets/readers/spitzer/text/04.jpg",
+      "assets/readers/spitzer/text/05.jpg",
+      "assets/readers/spitzer/text/06.jpg"
+    ]
+  },
+  "swift": {
+    "comic": [
+      "assets/readers/swift/comic/01.jpg",
+      "assets/readers/swift/comic/02.jpg",
+      "assets/readers/swift/comic/03.jpg",
+      "assets/readers/swift/comic/04.jpg",
+      "assets/readers/swift/comic/05.jpg",
+      "assets/readers/swift/comic/06.jpg"
+    ],
+    "text": [
+      "assets/readers/swift/text/01.jpg",
+      "assets/readers/swift/text/02.jpg",
+      "assets/readers/swift/text/03.jpg",
+      "assets/readers/swift/text/04.jpg",
+      "assets/readers/swift/text/05.jpg",
+      "assets/readers/swift/text/06.jpg",
+      "assets/readers/swift/text/07.jpg",
+      "assets/readers/swift/text/08.jpg"
+    ]
+  },
+  "tess": {
+    "comic": [
+      "assets/readers/tess/comic/01.jpg",
+      "assets/readers/tess/comic/02.jpg",
+      "assets/readers/tess/comic/03.jpg",
+      "assets/readers/tess/comic/04.jpg",
+      "assets/readers/tess/comic/05.jpg",
+      "assets/readers/tess/comic/06.jpg"
+    ],
+    "text": [
+      "assets/readers/tess/text/01.jpg",
+      "assets/readers/tess/text/02.jpg",
+      "assets/readers/tess/text/03.jpg",
+      "assets/readers/tess/text/04.jpg",
+      "assets/readers/tess/text/05.jpg",
+      "assets/readers/tess/text/06.jpg",
+      "assets/readers/tess/text/07.jpg",
+      "assets/readers/tess/text/08.jpg"
+    ]
+  },
+  "tiros-1": {
+    "comic": [
+      "assets/readers/tiros-1/comic/01.jpg",
+      "assets/readers/tiros-1/comic/02.jpg",
+      "assets/readers/tiros-1/comic/03.jpg",
+      "assets/readers/tiros-1/comic/04.jpg",
+      "assets/readers/tiros-1/comic/05.jpg",
+      "assets/readers/tiros-1/comic/06.jpg"
+    ],
+    "text": [
+      "assets/readers/tiros-1/text/01.jpg",
+      "assets/readers/tiros-1/text/02.jpg",
+      "assets/readers/tiros-1/text/03.jpg",
+      "assets/readers/tiros-1/text/04.jpg",
+      "assets/readers/tiros-1/text/05.jpg",
+      "assets/readers/tiros-1/text/06.jpg",
+      "assets/readers/tiros-1/text/07.jpg"
+    ]
+  },
+  "terra": {
+    "comic": [
+      "assets/readers/terra/comic/01.jpg",
+      "assets/readers/terra/comic/02.jpg",
+      "assets/readers/terra/comic/03.jpg",
+      "assets/readers/terra/comic/04.jpg",
+      "assets/readers/terra/comic/05.jpg",
+      "assets/readers/terra/comic/06.jpg",
+      "assets/readers/terra/comic/07.jpg"
+    ],
+    "text": [
+      "assets/readers/terra/text/01.jpg",
+      "assets/readers/terra/text/02.jpg",
+      "assets/readers/terra/text/03.jpg",
+      "assets/readers/terra/text/04.jpg",
+      "assets/readers/terra/text/05.jpg",
+      "assets/readers/terra/text/06.jpg",
+      "assets/readers/terra/text/07.jpg",
+      "assets/readers/terra/text/08.jpg"
+    ]
+  },
+  "ulysses": {
+    "comic": [
+      "assets/readers/ulysses/comic/01.jpg",
+      "assets/readers/ulysses/comic/02.jpg",
+      "assets/readers/ulysses/comic/03.jpg",
+      "assets/readers/ulysses/comic/04.jpg",
+      "assets/readers/ulysses/comic/05.jpg",
+      "assets/readers/ulysses/comic/06.jpg"
+    ],
+    "text": [
+      "assets/readers/ulysses/text/01.jpg",
+      "assets/readers/ulysses/text/02.jpg",
+      "assets/readers/ulysses/text/03.jpg",
+      "assets/readers/ulysses/text/04.jpg",
+      "assets/readers/ulysses/text/05.jpg",
+      "assets/readers/ulysses/text/06.jpg",
+      "assets/readers/ulysses/text/07.jpg"
+    ]
+  },
+  "voyager-1": {
+    "comic": [
+      "assets/readers/voyager-1/comic/01.jpg",
+      "assets/readers/voyager-1/comic/02.jpg",
+      "assets/readers/voyager-1/comic/03.jpg",
+      "assets/readers/voyager-1/comic/04.jpg",
+      "assets/readers/voyager-1/comic/05.jpg",
+      "assets/readers/voyager-1/comic/06.jpg",
+      "assets/readers/voyager-1/comic/07.jpg",
+      "assets/readers/voyager-1/comic/08.jpg"
+    ],
+    "text": [
+      "assets/readers/voyager-1/text/01.jpg",
+      "assets/readers/voyager-1/text/02.jpg",
+      "assets/readers/voyager-1/text/03.jpg",
+      "assets/readers/voyager-1/text/04.jpg",
+      "assets/readers/voyager-1/text/05.jpg",
+      "assets/readers/voyager-1/text/06.jpg",
+      "assets/readers/voyager-1/text/07.jpg"
+    ]
+  },
+  "wise-and-neowise": {
+    "comic": [
+      "assets/readers/wise-and-neowise/comic/01.jpg",
+      "assets/readers/wise-and-neowise/comic/02.jpg",
+      "assets/readers/wise-and-neowise/comic/03.jpg",
+      "assets/readers/wise-and-neowise/comic/04.jpg",
+      "assets/readers/wise-and-neowise/comic/05.jpg",
+      "assets/readers/wise-and-neowise/comic/06.jpg",
+      "assets/readers/wise-and-neowise/comic/07.jpg"
+    ],
+    "text": [
+      "assets/readers/wise-and-neowise/text/01.jpg",
+      "assets/readers/wise-and-neowise/text/02.jpg",
+      "assets/readers/wise-and-neowise/text/03.jpg",
+      "assets/readers/wise-and-neowise/text/04.jpg",
+      "assets/readers/wise-and-neowise/text/05.jpg",
+      "assets/readers/wise-and-neowise/text/06.jpg"
+    ]
+  },
+  "wmap": {
+    "comic": [
+      "assets/readers/wmap/comic/01.jpg",
+      "assets/readers/wmap/comic/02.jpg",
+      "assets/readers/wmap/comic/03.jpg",
+      "assets/readers/wmap/comic/04.jpg",
+      "assets/readers/wmap/comic/05.jpg",
+      "assets/readers/wmap/comic/06.jpg"
+    ],
+    "text": [
+      "assets/readers/wmap/text/01.jpg",
+      "assets/readers/wmap/text/02.jpg",
+      "assets/readers/wmap/text/03.jpg",
+      "assets/readers/wmap/text/04.jpg",
+      "assets/readers/wmap/text/05.jpg",
+      "assets/readers/wmap/text/06.jpg",
+      "assets/readers/wmap/text/07.jpg",
+      "assets/readers/wmap/text/08.jpg"
+    ]
+  }
+}

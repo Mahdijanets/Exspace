@@ -1,0 +1,90 @@
+@font-face {
+  font-family: 'Inter';
+  src: url('../assets/fonts/InterVariable.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+}
+:root { --font-ui: 'Inter', sans-serif; --font-display: 'Inter', sans-serif; }
+html, body { font-family: 'Inter', sans-serif; }
+button, input, select, textarea { font-family: inherit; }
+/* Shared navigation and footer for every platform page. */
+.home-header {
+  position: relative;
+  inset: auto;
+  z-index: 10;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+  align-items: center;
+  gap: 18px;
+  width: 100%;
+  padding: 12px 28px;
+  background: #000;
+}
+.home-header--transparent { position: absolute; top: 0; left: 0; background: transparent; }
+.home-brand { display: inline-flex; justify-self: start; align-items: center; height: 44px; padding: 0; text-decoration: none; }
+.home-brand img { width: auto; height: 36px; object-fit: contain; filter: drop-shadow(0 0 16px #1371ff47); }
+.header-group { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+.home-header > nav { justify-content: center; }
+.header-group.right { justify-content: flex-end; flex-wrap: nowrap; justify-self: end; }
+.header-group a { display: inline-flex; align-items: center; justify-content: center; min-height: 42px; padding: 0 16px; border: 0; border-radius: 8px; background: transparent; color: #dce4f5; font-size: .9rem; font-weight: 550; text-decoration: none; backdrop-filter: none; white-space: nowrap; }
+.header-group a:hover { background: #13243c; color: #fff; }
+.header-group a.active, .header-group a[aria-current="page"] { background: #132f53; color: #dce4f5; }
+.header-group .account-cta { background: transparent; box-shadow: none; }
+.header-group .register-cta { background: #075bd8; color: #fff; }
+.header-group .register-cta:hover { background: #126bea; }
+.header-group .header-favorites { width: 42px; padding: 0; }
+.header-group [hidden] { display: none; }
+.home-header a:focus-visible, .site-footer a:focus-visible { outline: 2px solid #7dd3fc; outline-offset: 4px; }
+.site-footer { position: relative; z-index: 4; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 24px; width: 100%; margin-top: auto; padding: 28px 32px; background: #000; color: #aeb8d7; font-size: .85rem; line-height: 1.6; }
+.site-footer-brand { color: #f6f8ff; font-weight: 750; letter-spacing: .1em; text-decoration: none; }
+.site-footer-logo { display: inline-flex; align-items: center; flex-shrink: 0; }
+.site-footer-logo img { width: 140px; height: auto; }
+.site-footer p { margin: 6px 0 0; max-width: 520px; }
+.site-footer nav { display: flex; flex-wrap: wrap; gap: 12px 22px; }
+.site-footer nav a { color: #dce4f5; text-decoration: none; }
+.site-footer nav a:hover { color: #7dd3fc; }
+body { display: flex; flex-direction: column; min-height: 100vh; }
+body > main { flex: 1; }
+.page-frame { display: flex; flex-direction: column; }
+.page-frame > main { flex: 1; }
+.games-main { padding-top: 36px; }
+.comics-main { padding-top: 36px; }
+.mission-card[hidden] { display: none; }
+/* Plain white page backgrounds; the home and solar views retain their scenes. */
+body[data-white-page] { color-scheme: light; background: #fff; color: #172033; }
+body[data-white-page]::before { display: none; }
+body[data-white-page] .page-frame { background: #fff; box-shadow: none; }
+body[data-white-page] .page-frame::before { display: none; }
+body[data-white-page] .games-main,
+body[data-white-page] .comics-main { color: #172033; }
+body[data-white-page] .section-head > div > p,
+body[data-white-page] .comics-heading p,
+body[data-white-page] .game-intro p { color: #526074; }
+body[data-white-page] .eyebrow,
+body[data-white-page] .game-eyebrow,
+body[data-white-page] .comic-mission { color: #075bd8; }
+body[data-white-page] .panel { color-scheme: dark; color: var(--text); }
+body[data-white-page] .toolbar { color: #172033; }
+body[data-white-page] .toolbar .search { background: #f6f8fb; color: #172033; border-color: #ced5df; }
+body[data-white-page] .toolbar .search::placeholder { color: #64748b; }
+body[data-white-page] .toolbar .filter { background: #fff; color: #526074; border-color: #ced5df; }
+body[data-white-page] .toolbar .filter.active { background: #eaf2ff; border-color: #075bd8; color: #075bd8; }
+body[data-white-page] .badge { color: #526074; border-color: #ced5df; background: #f6f8fb; }
+body[data-white-page] .empty { color: #526074; border-color: #ced5df; }
+body[data-white-page] .game-controls { border-color: #dce1e8; }
+@media (max-width: 1160px) {
+  .home-header { gap: 10px; padding: 12px 18px; grid-template-columns: auto 1fr auto; }
+  .header-group { gap: 4px; }
+  .header-group a { padding-inline: 11px; }
+}
+@media (max-width: 820px) {
+  .home-header { grid-template-columns: 1fr auto; }
+  .home-header > nav { grid-column: 1 / -1; grid-row: 2; justify-content: center; }
+  .home-header > .right { grid-column: 2; grid-row: 1; }
+  .home-brand { justify-self: start; order: 0; }
+  .header-group.right { justify-content: flex-end; }
+  .home-header--transparent { position: relative; }
+  .site-footer { padding: 24px 18px; }
+}
+@media (max-width: 420px) { .home-header { padding-inline: 12px; } .home-brand img { height: 29px; } .header-group a { padding-inline: 9px; font-size: .82rem; } .header-group.right { gap: 2px; } .header-group .header-favorites { width: 32px; } }

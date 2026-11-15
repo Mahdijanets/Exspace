@@ -1,0 +1,1 @@
+{"name":"acustik-space","version":"1.0.0","private":true,"type":"module","scripts":{"start":"python -m backend.server","check":"node tools/check-site.mjs","test:auth":"python -m unittest backend.test_auth"}}

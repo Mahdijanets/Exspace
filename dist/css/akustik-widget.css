@@ -1,0 +1,23 @@
+#akustik-widget { position: fixed; right: 18px; bottom: 12px; z-index: 10000; font: 14px/1.5 Arial, sans-serif; color: #edf5ff; }
+.akustik-pet { display: block; width: 116px; height: 148px; border: 0; padding: 0; background: transparent; cursor: pointer; transition: transform 8s ease-in-out; touch-action: manipulation; }
+.akustik-avatar { display: block; width: 114.46px; height: 124px; margin: auto; background-size: 600% 100%; background-position: 0 0; background-repeat: no-repeat; image-rendering: auto; }
+.akustik-avatar.is-animated { animation: akustik-frames 4.8s steps(6, end) infinite; }
+@keyframes akustik-frames { to { background-position: 120% 0; } }
+.akustik-pet:focus-visible { outline: 3px solid #7dd3fc; border-radius: 16px; }
+.akustik-chat { position: absolute; right: 0; bottom: 160px; display: flex; flex-direction: column; width: min(370px, calc(100vw - 32px)); height: min(490px, calc(100dvh - 190px)); min-height: 220px; background: #0b1730; border: 1px solid #7dd3fc60; border-radius: 22px; box-shadow: 0 18px 80px #0006; overflow: hidden; }
+.akustik-chat[hidden] { display: none; }
+.akustik-chat header { display: flex; justify-content: space-between; align-items: center; padding: 16px 20px; border-bottom: 1px solid #ffffff20; }
+.akustik-chat header strong { display: block; font-size: 18px; }
+.akustik-chat header small { color: #aeb8d7; }
+.akustik-chat button { cursor: pointer; font: inherit; }
+.akustik-close { border: 0; background: transparent; color: white; font-size: 26px !important; padding: 4px 10px; }
+.akustik-messages { overflow-y: auto; flex: 1; padding: 16px; overscroll-behavior: contain; }
+.akustik-message { margin: 0 0 12px; padding: 11px 14px; border-radius: 14px; background: #182946; white-space: pre-wrap; overflow-wrap: anywhere; }
+.akustik-message.user { margin-left: 28px; background: #075bd8; }
+.akustik-message.assistant { margin-right: 20px; }
+.akustik-form { display: flex; gap: 8px; padding: 12px; border-top: 1px solid #ffffff20; }
+.akustik-form input { min-width: 0; flex: 1; border: 1px solid #7dd3fc60; border-radius: 12px; padding: 12px; color: #fff; background: #101f39; font: inherit; }
+.akustik-form button { border: 0; border-radius: 12px; padding: 10px 14px; background: #075bd8; color: white; }
+.akustik-form button:disabled { opacity: .6; cursor: wait; }
+.akustik-chat :focus-visible { outline: 2px solid #7dd3fc; outline-offset: 2px; }
+@media(prefers-reduced-motion: reduce) { .akustik-pet { transition: none; } .akustik-avatar.is-animated { animation: none; } }
